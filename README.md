@@ -1,6 +1,6 @@
 ## Olá eu sou João Paulo Atualmente sou Desenvolvedor Jr. !
 
-<div>
+<div style="display: inline_block">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=joao-lgtm&show_icons=true&theme=dracula">
   <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lgtm&layout=compact&theme=dracula"></div>
 
